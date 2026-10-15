@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "batchspawner",
+  "versions": [
+    {
+      "commit": "451dcf171cff7883904845d5de8c5e5e250b64d9",
+      "tag": "",
+      "parsed_at": "2026-10-15T09:51:43.693133+00:00"
+    }
+  ]
+}
